@@ -1,0 +1,21 @@
+Executing operation...
+Operation completed
+Executing operation...
+Operation completed
+Executing operation...
+Operation completed
+Executing operation...
+Operation completed
+Executing operation...
+Operation completed
+Executing operation...
+Operation completed
+All operations completed
+
+Processed 6 ops
+
+Results: Processed 6 ops - average time = 10ms
+Average response time(ms) = 10ms
+Min response time(ms) = 1ms
+Max response time(ms) = 20ms
+Failure Rate = 0%
